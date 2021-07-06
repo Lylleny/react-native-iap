@@ -1,0 +1,20 @@
+{
+  "name": "react-native-iap",
+  "version": "1.0.0",
+  "description": "ios iap for react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lylleny/react-native-iap.git"
+  },
+  "keywords": [
+    "iap",
+    "IAP",
+    "react-native"
+  ],
+  "author": "lylleny",
+  "license": "ISC"
+}
