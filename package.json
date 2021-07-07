@@ -1,5 +1,5 @@
 {
-  "name": "react-native-iap",
+  "name": "react-native-ly-iap",
   "version": "1.0.0",
   "description": "ios iap for react-native",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Lylleny/react-native-iap.git"
+    "url": "https://github.com/Lylleny/react-native-ly-iap.git"
   },
   "keywords": [
     "iap",

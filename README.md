@@ -4,6 +4,6 @@
 
 ## Installation
 ```
-npm install --s react-native-iap
+npm install --s react-native-ly-iap
 ```
 
